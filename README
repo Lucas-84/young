@@ -1,0 +1,5 @@
+Ceci est une implémentation des tableaux de Young, inspirée du problème à ce
+sujet dans le chapitre sur le tri par tas du livre « Algorithmes » de Cormen
+et. al. Le code est écrit en C89, et peut être compilé avec un compilateur
+standard (les essais ont été faits avec clang et gcc). Le code est sous 
+licence GPL v2.
